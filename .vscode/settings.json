@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Assignment Week 2/salary-calculator/src/main/java/edu/liberty/assignment",
         "Assignment Week 1/src",
         "Assignment Week 1",
-        "Assignment Week 2/salary-calculator/src/main/java/edu/liberty/assignment"
+        "Assignment Week 3/src"
     ],
     "java.configuration.updateBuildConfiguration": "interactive"
 }
