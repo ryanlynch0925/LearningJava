@@ -1,5 +1,11 @@
+//<FiveSentences.java> -- Prints out 5 sentences that explain how techonlogy has been used to win souls for christ
+//CSIS 212-<WEEK 1>
+
 public class FiveSentences {
     public static void main(String[] args){
+        // Class related print statement
+        System.out.println(" David Ryan Lynch - Program 1");
+
         // Printing out 5 lines of string.
         System.out.println("The following are how technology has helped win souls for Christ:\n");
         System.out.println("1. Social media has made it easier for churches to share encouraging messages and testimonies, helping people from all walks of life hear about Christ, even if they’ve never stepped foot in a church.");

@@ -1,5 +1,11 @@
+//<ThreeWaysToPrint.java> -- Prints out the number 1-4 with a space seperating them use the three different print techinques.
+//CSIS 212-<WEEK 1>
+
 public class ThreeWaysToPrint {
     public static void main(String[] args) {
+        // Class related print statement
+        System.out.println(" David Ryan Lynch - Program 3");
+
         // a. Using 1 System.out.println statement
         System.out.println("1 2 3 4");
 

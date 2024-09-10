@@ -1,7 +1,12 @@
+//<Calculator.java> -- asks for 2 integers from user input, then outputs sum, difference, product and quotient
+//CSIS 212-<WEEK 1>
+
 import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args){
+        // Class related print statement
+        System.out.println(" David Ryan Lynch - Program 4");
 
         // Gather integers from the user
         Scanner input = new Scanner(System.in);
